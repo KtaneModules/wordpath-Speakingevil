@@ -1,1 +1,1 @@
-# wordpath
+#[ModKit Wiki](../../wiki)
